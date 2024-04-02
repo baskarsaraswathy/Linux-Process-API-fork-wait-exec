@@ -1,5 +1,5 @@
-## Name : BASKAR  J
-## Reg no : 212223040025
+# Name : BASKAR  J
+# Reg no : 212223040025
 # Linux-Process-API-fork-wait-exec-
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
